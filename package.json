@@ -1,0 +1,18 @@
+{
+    "name": "contactlensrealtime",
+    "version": "1.0.0",
+    "main": "get-realtime-call-analytics-from-contactlens.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "*",
+        "fs": "*",
+        "https": "*",
+        "serverless-webpack": "^5.7.1",
+        "url": "*"
+    },
+    "description": ""
+}
